@@ -1,0 +1,20 @@
+version: '3.7'
+services:
+    SQL2019:
+        image: sqldbawithabeard/dbachecksdemo
+        ports:  
+          - "15592:1433"
+        networks: 
+          - BeardsMagicNetwork
+        volumes: 
+          - __ReplaceMe__:/var/opt/mssql/backups
+    SQL2019-1:
+        image: sqldbawithabeard/dbachecksdemo
+        ports:  
+          - "15593:1433"
+        networks: 
+          - BeardsMagicNetwork
+        volumes: 
+          - __ReplaceMe__:/var/opt/mssql/backups
+networks: 
+  BeardsMagicNetwork:
