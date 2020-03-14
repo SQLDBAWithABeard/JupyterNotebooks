@@ -15,20 +15,20 @@ They are all dotnet PowerShell Notebooks
 
 There are notebooks to explore dbatools making use of some docker containers  
 
-- [Introduction](notebooks\dotNETNotebooks\dbatools\01-Introduction.ipynb)
-- [Backups and Restore](notebooks\dotNETNotebooks\dbatools\02-BackupsRestores.ipynb)
-- [Availability Groups](notebooks\dotNETNotebooks\dbatools\03AvailabilityGroups.ipynb)
-- [Logins and Users](notebooks\dotNETNotebooks\dbatools\04-LoginsAndUsers.ipynb)
-- [Extended Events](notebooks\dotNETNotebooks\dbatools\05-ExtendedEvents.ipynb)
-- [Agent Jobs](notebooks\dotNETNotebooks\dbatools\06-AgentJobs.ipynb)
+- [Introduction](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbatools\01-Introduction.ipynb)
+- [Backups and Restore](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbatools\02-BackupsRestores.ipynb)
+- [Availability Groups](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbatools\03AvailabilityGroups.ipynb)
+- [Logins and Users](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbatools\04-LoginsAndUsers.ipynb)
+- [Extended Events](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbatools\05-ExtendedEvents.ipynb)
+- [Agent Jobs](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbatools\06-AgentJobs.ipynb)
 
  and dbachecks using the same container image
  
- - [Introduction](notebooks\dotNETNotebooks\dbachecks\01-dbachecks-Intro.ipynb)
- - [Quick Examples](notebooks\dotNETNotebooks\dbachecks\02-dbachecks-Quick Examples.ipynb)
- - [Simple Configurations](notebooks\dotNETNotebooks\dbachecks\03-dbachecks - Simple configurations.ipynb)
- - [Saving Configurations](notebooks\dotNETNotebooks\dbachecks\04-dbachecks-SavingConfigurations.ipynb)
- - [Creating Power Bi](notebooks\dotNETNotebooks\dbachecks\05 - Creating the PowerBi.ipynb)
+ - [Introduction](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbachecks/01-dbachecks-Intro.ipynb)
+ - [Quick Examples](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbachecks/02-dbachecks-Quick%20Examples.ipynb)
+ - [Simple Configurations](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbachecks/03-dbachecks%20-%20Simple%20configurations.ipynb)
+ - [Saving Configurations](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbachecks/04-dbachecks-SavingConfigurations.ipynb)
+ - [Creating Power Bi](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbachecks/05%20-%20Creating%20the%20PowerBi.ipynb)
  
  as well as some generic PowerShell ones and Azure
 
@@ -37,13 +37,13 @@ There are notebooks to explore dbatools making use of some docker containers
 These require Azure Data Studio and will install python and required packages on first start.  
 
 There are SQL and PowerShell notebooks split into various directories
-- [Agent](notebooks\NotDotNet\Agent)
-- [Audit](notebooks\NotDotNet\Audit)
-- [Azure](notebooks\NotDotNet\Azure)
-- [Brent Ozar scripts](notebooks\NotDotNet\Brent Ozar)
-- [dbachecks](notebooks\NotDotNet\dbachecks)
-- [Extended Events](notebooks\NotDotNet\Extended Events)
-- [OS](notebooks\NotDotNet\OS)
-- [Query Store](notebooks\NotDotNet\Query Store)
-- [SSIS](notebooks\NotDotNet\SSIS)
-- [Statistics](notebooks\NotDotNet\Statistics)
+- [Agent](https://github.com/SQLDBAWithABeard/JupyterNotebooks/tree/master/notebooks/NotDotNet/Agent)
+- [Audit](https://github.com/SQLDBAWithABeard/JupyterNotebooks/tree/master/notebooks/NotDotNet/Audit)
+- [Azure](https://github.com/SQLDBAWithABeard/JupyterNotebooks/tree/master/notebooks/NotDotNet/Azure)
+- [Brent Ozar scripts](https://github.com/SQLDBAWithABeard/JupyterNotebooks/tree/master/notebooks/NotDotNet/Brent%20Ozar)
+- [dbachecks](https://github.com/SQLDBAWithABeard/JupyterNotebooks/tree/master/notebooks/NotDotNet/dbachecks)
+- [Extended Events](https://github.com/SQLDBAWithABeard/JupyterNotebooks/tree/master/notebooks/NotDotNet/Extended%20Events)
+- [OS](https://github.com/SQLDBAWithABeard/JupyterNotebooks/tree/master/notebooks/NotDotNet/OS)
+- [Query Store](https://github.com/SQLDBAWithABeard/JupyterNotebooks/tree/master/notebooks/NotDotNet/Query%20Store)
+- [SSIS](https://github.com/SQLDBAWithABeard/JupyterNotebooks/tree/master/notebooks/NotDotNet/SSIS)
+- [Statistics](https://github.com/SQLDBAWithABeard/JupyterNotebooks/tree/master/notebooks/NotDotNet/Statistics)
