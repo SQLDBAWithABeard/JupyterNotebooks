@@ -15,12 +15,12 @@ They are all dotnet PowerShell Notebooks
 
 There are notebooks to explore dbatools making use of some docker containers  
 
-- [Introduction](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbatools\01-Introduction.ipynb)
-- [Backups and Restore](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbatools\02-BackupsRestores.ipynb)
-- [Availability Groups](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbatools\03AvailabilityGroups.ipynb)
-- [Logins and Users](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbatools\04-LoginsAndUsers.ipynb)
-- [Extended Events](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbatools\05-ExtendedEvents.ipynb)
-- [Agent Jobs](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbatools\06-AgentJobs.ipynb)
+- [Introduction](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbatools/01-Introduction.ipynb)
+- [Backups and Restore](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbatools/02-BackupsRestores.ipynb)
+- [Availability Groups](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbatools/03AvailabilityGroups.ipynb)
+- [Logins and Users](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbatools/04-LoginsAndUsers.ipynb)
+- [Extended Events](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbatools/05-ExtendedEvents.ipynb)
+- [Agent Jobs](https://github.com/SQLDBAWithABeard/JupyterNotebooks/blob/master/notebooks/dotNETNotebooks/dbatools/06-AgentJobs.ipynb)
 
  and dbachecks using the same container image
  
