@@ -8,7 +8,7 @@ services:
         networks: 
           - BeardsMagicNetwork
         volumes: 
-          - C:\Users\Rob\Documents\dbatoolsdemo:/var/opt/mssql/backups
+          - C:\Users\mrrob\Documents\dbatoolsdemo:/var/opt/mssql/backups
         environment:
           - MSSQL_ENABLE_HADR=1          
     SQL2019-1:
@@ -19,7 +19,7 @@ services:
         networks: 
           - BeardsMagicNetwork
         volumes: 
-          - C:\Users\Rob\Documents\dbatoolsdemo:/var/opt/mssql/backups
+          - C:\Users\mrrob\Documents\dbatoolsdemo:/var/opt/mssql/backups
         environment:
           - MSSQL_ENABLE_HADR=1
 networks: 
