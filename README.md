@@ -1,9 +1,5 @@
-# JupyterNotebooks
-This will hold the Jupyter Notebooks and work with Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SQLDBAWithABeard/JupyterNotebooks/master?urlpath=lab)
-
-This repo holds the Azure Data Studio and .NET interactive notebooks
+This repo holds both Azure Data Studio and .NET interactive notebooks
 
 There are a number of notebooks in this repository split into two types
 
@@ -11,7 +7,7 @@ There are a number of notebooks in this repository split into two types
 
 These can be found in the [following folder](notebooks/dotNETNotebooks). To run these notebooks will require installing Anaconda, dotnet interactive following the instructions at https://sqldbawithabeard.com/2020/02/07/new-net-notebooks-are-here-powershell-7-notebooks-are-here/  
 
-They are all dotnet PowerShell Notebooks
+They are all dotnet PowerShell Notebooks with one that shows using C# and Pwsh in the same notebook
 
 There are notebooks to explore dbatools making use of some docker containers  
 
@@ -47,3 +43,9 @@ There are SQL and PowerShell notebooks split into various directories
 - [Query Store](https://github.com/SQLDBAWithABeard/JupyterNotebooks/tree/master/notebooks/NotDotNet/Query%20Store)
 - [SSIS](https://github.com/SQLDBAWithABeard/JupyterNotebooks/tree/master/notebooks/NotDotNet/SSIS)
 - [Statistics](https://github.com/SQLDBAWithABeard/JupyterNotebooks/tree/master/notebooks/NotDotNet/Statistics)
+
+
+# JupyterNotebooks
+This will hold the Jupyter Notebooks and work with Binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SQLDBAWithABeard/JupyterNotebooks/master?urlpath=lab)
