@@ -1,7 +1,9 @@
 version: '3.7'
 services:
-    SQL2019:
-        image: sqldbawithabeard/dbachecksdemo
+    beardsql01:
+        image: sqldbawithabeard/dbatoolsbeardsql01:v1
+        container_name: beardsql01
+        hostname: f443490967e7
         ports:  
           - "15592:1433"
           - "5022:5022"          
@@ -11,8 +13,10 @@ services:
           - __ReplaceMe__:/var/opt/mssql/backups
         environment:
           - MSSQL_ENABLE_HADR=1          
-    SQL2019-1:
-        image: sqldbawithabeard/dbachecksdemo
+    beardsql02:
+        image: sqldbawithabeard/dbatoolsbeardsql02:v1
+        container_name: beardsql02
+        hostname: f443490967e7
         ports:  
           - "15593:1433"
           - "5023:5023"         
